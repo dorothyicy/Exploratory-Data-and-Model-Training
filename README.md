@@ -14,6 +14,7 @@ Dataset Information:
 Below is the attribute information:
 
 Pregnancies: Number of times pregnant
+
 Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
 
 Blood pressure: Diastolic blood pressure (mm Hg)
